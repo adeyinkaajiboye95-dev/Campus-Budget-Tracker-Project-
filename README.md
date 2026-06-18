@@ -29,7 +29,7 @@ Installation
 
 1. Clone the repository:
 
-git clone 
+git clone https://github.com/adeyinkaajiboye95-dev/Campus-Budget-Tracker-Project-#campus-budget-tracker-project-
 
 2. Navigate to the project folder:
 
