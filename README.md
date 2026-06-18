@@ -49,14 +49,6 @@ How to Use
 4. Monitor the updated balance.
 5. Export reports to PDF when needed.
 
-Project Structure
-
-student-budget-tracker/
-│
-├── main.py
-├── reports/
-├── assets/
-├── README.md
 
 Learning Outcomes
 
