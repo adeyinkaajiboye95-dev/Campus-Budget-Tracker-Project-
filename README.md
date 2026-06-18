@@ -39,7 +39,7 @@ pip install reportlab
 
 4. Run the application:
 
-python main.py
+main.py
 
 How to Use
 
